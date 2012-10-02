@@ -1,0 +1,2 @@
+PAS1-ExercicioSingleton
+=======================
